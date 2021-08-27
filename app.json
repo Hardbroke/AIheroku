@@ -1,0 +1,16 @@
+{
+  "name": "AIheroku",
+  "description": "Deploy vless on Heroku.",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "3736c16c-e67d-4645-9a0b-229b16bc5aba"
+    }
+  },
+  "website": "https://github.com/Hardbroke/",
+  "repository": "https://github.com/Hardbroke/AIheroku",
+  "stack": "container"
+}
